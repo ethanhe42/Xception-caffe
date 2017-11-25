@@ -1,5 +1,5 @@
 # Xception-caffe
-[Xception](https://arxiv.org/abs/1610.02357) on ImageNet implemented with caffe
+Please use **my Caffe** [**fork**](https://github.com/yihui-he/caffe-pro) for running [Xception](https://arxiv.org/abs/1610.02357).
 
 err@1 | err@5 
 --- | --- 
