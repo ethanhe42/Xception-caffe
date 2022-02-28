@@ -1,1 +1,1 @@
-# https://yihui-he.github.io/Xception-caffe/
+# https://yihui-he.github.io/blog/xception-with-caffe
